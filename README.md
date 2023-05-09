@@ -1,4 +1,5 @@
 # SmartCare Hospital Employee: Assisted SmartCare Hospital Limited in tracking and analyzing employee feedback data using an operational dashboard
+- [Watch the demo of the interactive dashboard](https://youtu.be/c_DP6lYcx1g)
 
 ### **Ask Phase: Asking Questions to Understand the Business Task** 
 - **The Stakeholders**: Smart James -chief medical director and the Executive Team.
