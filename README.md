@@ -1,4 +1,4 @@
-# SmartCare Hospital Employee: Assisted SmartCare Hospital Limited in tracking and analyzing employee feedback data using an operational dashboard
+# SmartCare Hospital Employee: Developed a dynamic operational dashboard for SmartCare Hospital Limited that helps her track and analyze employee feedback data
 
 [Watch the demo of the interactive dashboard](https://youtu.be/c_DP6lYcx1g)
 
